@@ -1,4 +1,4 @@
-# StarDust -> Phase 4 AstroPI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![AstroPI + ESA](https://github.com/DavidGhergut/StarDust_AstroPI/blob/master/Esa_AstroPI.jpg "Sugestive Image")
+# StarDust -> Phase 4 AstroPI ![AstroPI + ESA](https://github.com/DavidGhergut/StarDust_AstroPI/blob/master/Esa_AstroPI.jpg "Sugestive Image")
 
 ## Purpose of the program written
 
